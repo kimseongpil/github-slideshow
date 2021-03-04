@@ -30,6 +30,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 >I Can highlight lines
 >> And also do on multiple levels!
 >>> One more depth.
+>>> same level depth.
 
 ```this is code block```
 
@@ -37,41 +38,51 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 int val = 10;
 printf(%S, "Hello, World!");
 ```
-<br>
-\*강조-Italic\*
-\*\*강조-Bold\*\*
-\*\*\*강조-Italic, Bold중첩\*\*\*
-
 </br>
+*강조-Italic*
+**강조-Bold**
+***강조-Italic, Bold중첩***
+~~취소선~~
+<u>밑줄</u>
+
+
 수평선
-\*\*\*
+***
+---
+___
 
-1.first Line
-2.Second Line
-3.Third Line
-4.Last Line
+1. 순서가 필요한 목록
+1. 순서가 필요한 목록
+- 순서가 필요없는 목록
+- 순서가 필요업는 목록
+1. 순서가 필요한 목록
+ 1. 순서가 필요한 목록
+ 1. 순서가 필요한 목록
+1. 순서가 필요한 목록
 
-1. first Line
-1. Second Line
-1. Third Line
-1. Last Line
+- 순서가 필요하지 않은 목록
+ - 목록1
+ - 목록2
+ - 목록3
 
-<br>
-Menu1
-- sub1-1
-- sub1-2
-Menu2
-- sub2-1
--- sub2-1-1
 
 링크
-인라인 : [DAUM](http://www.daum.net)
+
+인라인 : [DAUM](http://www.daum.net "링크설명입니다. DAUM")
+
 참조 : 검색엔진은 [Google][1] 이 있다.
 본문.......
-[1]:http://google.com/
+[1]:http://google.com/ "구글로 이동합니다."
+
 URL링크 : <http://www.google.com>
+
 내부링크 : [링크](#id)
 
 
+| Header One | Header Two | Header Three | Header Four |
+| ---------- | :--------- | :----------: | ----------: |
+| Default    | Left       | Center       | Right       |
 
-
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | :------: | -------- | -------- |
+| No span  | Span across three columns    |||
