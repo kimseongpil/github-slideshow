@@ -32,13 +32,45 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 >>> One more depth.
 
 ```this is code block```
-\`This is code block\`
-’’‘
-This is code block
-’’’
-<pre><blockquote>
-\<p>This is code block\</p>
-\<\/blockquote\>
+
+```C
+int val = 10;
+printf(%S, "Hello, World!");
+```
+
+\*강조-Italic\*
+\*\*강조-Bold\*\*
+\*\*\*강조-Italic, Bold중첩\*\*\*
+
+
+수평선
+\*\*\*
+
+1.first Line
+2.Second Line
+3.Third Line
+4.Last Line
+
+1. first Line
+1. Second Line
+1. Third Line
+1. Last Line
+
+Menu1
+- sub1-1
+- sub1-2
+Menu2
+- sub2-1
+-- sub2-1-1
+
+링크
+인라인 : [DAUM](http://www.daum.net"다음")
+참조 : 검색엔진은 [Google][1] 이 있다.
+본문.......
+[1]:http://google.com/"구글"
+URL링크 : <http://www.google.co.kr>
+내부링크 : [링크](#id)
+
 
 
 
