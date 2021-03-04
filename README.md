@@ -106,7 +106,9 @@ URL링크 : <http://www.google.com>
 
 각주(footnote)
 
-마크다운[^markdown] 의 각주입니다.
-[^markdown]: MarkDown > 경량 마크업 언어입니다. 확장자는 md.
+마크다운의 각주 링크입니다[^markdown].
+
+
+[^markdown]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
 
