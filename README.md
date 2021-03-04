@@ -42,6 +42,12 @@ line2
 line3
 
 
+각주(footnote)
+
+마크다운의 각주 링크입니다[^markdown].
+
+[^markdown]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
+
 
 ```C
 int val = 10;
@@ -104,11 +110,6 @@ URL링크 : <http://www.google.com>
 | No span  | Span across three columns    |||
 
 
-각주(footnote)
 
-마크다운의 각주 링크입니다[^markdown].
-
-
-[^markdown]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
 
