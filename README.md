@@ -33,4 +33,12 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 ```this is code block```
 \`This is code block\`
+’’‘
+This is code block
+’’’
+<pre><blockquote>
+\<p>This is code block\</p>
+\<\/blockquote\>
+
+
 
