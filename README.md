@@ -1,5 +1,6 @@
 # Your GitHub Learning Lab Repository for Introducing GitHub
 
+<id>
 Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
 
 Oh! I haven't introduced myself...
@@ -40,9 +41,13 @@ printf(%S, "Hello, World!");
 ```
 
 *강조-Italic*
+
 **강조-Bold**
+
 ***강조-Italic, Bold중첩***
+
 ~~취소선~~
+
 <u>밑줄</u>
 
 
@@ -70,8 +75,8 @@ ___
 
 인라인 : [DAUM](http://www.daum.net "링크설명입니다. DAUM")
 
-참조 : 검색엔진은 [Google][1] 이 있다.
-본문.......
+참조 : 검색엔진은 [Google][1] 이 있다.<br>
+클릭하세요.
 [1]:http://google.com/ "구글로 이동합니다."
 
 URL링크 : <http://www.google.com>
