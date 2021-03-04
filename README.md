@@ -37,12 +37,12 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 int val = 10;
 printf(%S, "Hello, World!");
 ```
-
+<br>
 \*강조-Italic\*
 \*\*강조-Bold\*\*
 \*\*\*강조-Italic, Bold중첩\*\*\*
 
-
+</br>
 수평선
 \*\*\*
 
@@ -56,6 +56,7 @@ printf(%S, "Hello, World!");
 1. Third Line
 1. Last Line
 
+<br>
 Menu1
 - sub1-1
 - sub1-2
@@ -64,11 +65,11 @@ Menu2
 -- sub2-1-1
 
 링크
-인라인 : [DAUM](http://www.daum.net"다음")
+인라인 : [DAUM](http://www.daum.net)
 참조 : 검색엔진은 [Google][1] 이 있다.
 본문.......
-[1]:http://google.com/"구글"
-URL링크 : <http://www.google.co.kr>
+[1]:http://google.com/
+URL링크 : <http://www.google.com>
 내부링크 : [링크](#id)
 
 
