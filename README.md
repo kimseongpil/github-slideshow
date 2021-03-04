@@ -13,6 +13,9 @@ I'll meet you over there, can't wait to get started!
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
 # Title 1
+
+[^markdown]: 마크다운 (Markdown)은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다. 온갖 태그로 범벅된 HTML 문서 등과 달리, 읽기도 쓰기도 쉬운 문서 양식을 지향한다.
+
 # Below is MarkDown TEST
 
 # 제목 1
@@ -84,6 +87,9 @@ URL링크 : <http://www.google.com>
 내부링크 : [목차로이동](#title-1)
 
 
+테이블
+
+
 | Header One | Header Two | Header Three | Header Four |
 | ---------- | :--------- | :----------: | ----------: |
 | Default    | Left       | Center       | Right       |
@@ -91,3 +97,9 @@ URL링크 : <http://www.google.com>
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | :------: | -------- | -------- |
 | No span  | Span across three columns    |||
+
+
+각주(footnote)
+마크다운[^markdown]
+
+
