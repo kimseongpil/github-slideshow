@@ -29,7 +29,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 >This is block quote.
 >I Can highlight lines
 >> And also do on multiple levels!
->>> One more depth.
+>>> One more depth.<br>
 >>> same level depth.
 
 ```this is code block```
@@ -38,7 +38,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 int val = 10;
 printf(%S, "Hello, World!");
 ```
-</br>
+
 *강조-Italic*
 **강조-Bold**
 ***강조-Italic, Bold중첩***
@@ -53,17 +53,17 @@ ___
 
 1. 순서가 필요한 목록
 1. 순서가 필요한 목록
-- 순서가 필요없는 목록
-- 순서가 필요업는 목록
+    - 순서가 필요없는 목록
+    - 순서가 필요업는 목록
 1. 순서가 필요한 목록
- 1. 순서가 필요한 목록
- 1. 순서가 필요한 목록
+    - 순서가 필요한 목록
+    - 순서가 필요한 목록
 1. 순서가 필요한 목록
 
 - 순서가 필요하지 않은 목록
- - 목록1
- - 목록2
- - 목록3
+    - 목록1
+    - 목록2
+    - 목록3
 
 
 링크
