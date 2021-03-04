@@ -48,9 +48,9 @@ line3
 
 각주(footnote)
 
-마크다운의 각주 링크입니다[^markdown].
+마크다운의 각주 링크입니다[^footnote1].
 
-[^markdown]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
+[^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
 
 ```C
