@@ -12,6 +12,7 @@ I'll meet you over there, can't wait to get started!
 
 This course is using the :sparkles: open source project [reveal.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
 
+# Title
 # Below is MarkDown TEST
 
 # 제목 1
@@ -80,7 +81,7 @@ ___
 
 URL링크 : <http://www.google.com>
 
-내부링크 : [링크](#your-github)
+내부링크 : [목차로이동](#title)
 
 
 | Header One | Header Two | Header Three | Header Four |
