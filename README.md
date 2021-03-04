@@ -23,18 +23,22 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 #### 제목 4
 ##### 제목 5
 
+
+###### 간단한 제목 크기
 큰제목
 ===
 
 작은제목
 ---
 
+###### 인용문 들여쓰기
 >This is block quote.
 >I Can highlight lines
 >> And also do on multiple levels!
 >>> One more depth.<br>
 >>> same level depth.
 
+###### 코드블럭
 `this is code block`
 
 // some comments
@@ -45,20 +49,22 @@ line2
 
 line3
 
+###### 코딩문법
+```C
+int val = 10;
+printf(%S, "Hello, World!");
+```
 
 
-각주(footnote)
+###### 각주(footnote)
 
 마크다운의 각주 링크입니다[^footnote1].
 
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
 
-```C
-int val = 10;
-printf(%S, "Hello, World!");
-```
 
+###### TEXT 스타일
 *강조-Italic*
 
 **강조-Bold**
@@ -70,11 +76,12 @@ printf(%S, "Hello, World!");
 <u>밑줄</u>
 
 
-수평선
+###### 수평선(단락구분에 많이 사용)
 ***
 ---
 ___
 
+###### 목록
 1. 순서가 필요한 목록
 1. 순서가 필요한 목록
     - 순서가 필요없는 목록
@@ -90,7 +97,7 @@ ___
     - 목록3
 
 
-링크
+###### 링크
 
 인라인 : [DAUM](http://www.daum.net "링크설명입니다. DAUM")
 
@@ -102,12 +109,11 @@ URL링크 : <http://www.google.com>
 
 내부링크 : [목차로이동](#title-1)
 
-앵커
+앵커</br>
 \*[1장](#chapter-1)
 
 
-테이블
-
+###### 테이블
 
 | Header One | Header Two | Header Three | Header Four |
 | ---------- | :--------- | :----------: | ----------: |
@@ -118,6 +124,6 @@ URL링크 : <http://www.google.com>
 | No span  | Span across three columns    |||
 
 
-
-
+###### 이미지
+![Minion](http://octodex.github.com/images/minion.png)
 
