@@ -14,8 +14,6 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 # Title 1
 
-[^markdown]: 마크다운 (Markdown)은 마크업 언어의 일종으로, 존 그루버(John Gruber)와 아론 스워츠(Aaron Swartz)가 만들었다. 온갖 태그로 범벅된 HTML 문서 등과 달리, 읽기도 쓰기도 쉬운 문서 양식을 지향한다.
-
 # Below is MarkDown TEST
 
 # 제목 1
@@ -36,7 +34,14 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 >>> One more depth.<br>
 >>> same level depth.
 
-```this is code block```
+`this is code block`
+
+// some comments
+line1
+line2
+line3
+
+
 
 ```C
 int val = 10;
@@ -101,6 +106,7 @@ URL링크 : <http://www.google.com>
 
 각주(footnote)
 
-마크다운[^markdown]
+마크다운[^markdown] 의 각주입니다.
+[^markdown]: MarkDown > 경량 마크업 언어입니다. 확장자는 md.
 
 
