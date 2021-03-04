@@ -80,7 +80,7 @@ ___
 
 URL링크 : <http://www.google.com>
 
-내부링크 : [링크](#welcome to)
+내부링크 : [링크](#your-github)
 
 
 | Header One | Header Two | Header Three | Header Four |
