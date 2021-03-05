@@ -50,7 +50,7 @@ line2
 line3
 
 ## 코딩문법
-```C
+```C:FileName.C
 int val = 10;
 printf(%S, "Hello, World!");
 ```
@@ -58,11 +58,10 @@ printf(%S, "Hello, World!");
 
 ## 각주(footnote)
 
-마크다운의 각주 링크입니다[^footnote1].
+마크다운의 각주 링크인데 동작하지 않습니다.[^footnote1].
 
-[^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
-마크다운의 각주는 작동하지 않습니다.<sup>[1](#myfootnote1)</sup>
+그래서 대안으로 이코드를 사용합니다..<sup>[1](#myfootnote1)</sup>
 
 ## TEXT 스타일
 *강조-Italic*
@@ -132,4 +131,6 @@ URL링크 : <http://www.google.com>
 
 
 ***
+[^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
+
 <a name="myfootnote1">1</a>: 왜일까요??
