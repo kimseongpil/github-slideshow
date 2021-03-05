@@ -77,6 +77,8 @@ printf(%S, "Hello, World!");
 
 __밑줄(안되네)__
 
+<u>밑줄</u>
+
 
 
 ## 수평선(단락구분에 많이 사용)
@@ -129,6 +131,10 @@ URL링크 : <http://www.google.com>
 
 ## 이미지
 ![Minion](http://octodex.github.com/images/minion.png "tool tip title")
+
+
+## 이모지
+&#128525;
 
 <!-- 주석처리 
 ## 체크박스
