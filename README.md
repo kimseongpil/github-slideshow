@@ -75,7 +75,7 @@ printf(%S, "Hello, World!");
 
 ~~취소선~~
 
-<u>밑줄</u>
+<U>밑줄</U>
 
 
 ## 수평선(단락구분에 많이 사용)
@@ -129,12 +129,11 @@ URL링크 : <http://www.google.com>
 ## 이미지
 ![Minion](http://octodex.github.com/images/minion.png "tool tip title")
 
-<!-- 주석처리 -->
-
+<!-- 주석처리 
 ## 체크박스
 - ( ) 운동하기
 - (x) 강의듣기
-
+-->
 
 ***
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
