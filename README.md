@@ -132,3 +132,9 @@ URL링크 : <http://www.google.com>
 최근 스칼라는 매우 인기가 높은 언어이다.[^scala]
 
 \[^scala]: 스칼라는 마틴 오더시크가 개발한 함수형 언어이다.
+
+A statement.footnote:[Clarification about this statement.]
+
+A bold statement!footnote:disclaimer[Opinions are my own.]
+
+Another bold statement.footnote:disclaimer[]
