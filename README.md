@@ -40,6 +40,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 ## 코드블럭
 `this is code block one line'
+
 ```somecomment
     line1
     line2
@@ -47,11 +48,15 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 ```   
 
 ## 코드블럭 개발언어 스타일
-```C#:FileName.CS
+```C
 int val = 10;
 printf(%S, "Hello, World!");
 ```
 
+```HTML:TEST.HTML
+<h7>hi<h7>
+    <body> Hello Github!!! </body>
+```
 
 ## 각주(footnote)
 
