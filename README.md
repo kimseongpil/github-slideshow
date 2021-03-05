@@ -124,9 +124,10 @@ URL링크 : <http://www.google.com>
 | ---------- | :--------- | :----------: | ----------: |
 | Default    | Left       | Center       | Right       |
 
+
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | :------: | -------- | -------- |
-| No span  | Span across three columns    |||
+| No span | Span across three columns |||
 
 
 ## 이미지
@@ -148,11 +149,6 @@ URL링크 : <http://www.google.com>
 - [ ] 우유
 
 
-```math
-f(x) = \int_{-\infty}^\infty
-\hat f(\xi),e^{2 \pi i \xi x}
-,d\xi
-```
 
 ***
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
