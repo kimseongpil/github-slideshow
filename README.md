@@ -39,9 +39,9 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 >>> same level depth.
 
 ## 코드블럭
-`this is code block
-    line1
-    line2
+`this is code block</br>
+    line1</br>
+    line2</br>
     line3`
 
 ## 코드블럭 언어 스타일
