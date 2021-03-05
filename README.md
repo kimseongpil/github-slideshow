@@ -47,7 +47,7 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
     line3
 ```   
 
-## 코드블럭 개발언어 스타일
+## 코드블럭 개발언어 higlight
 ```C
 int val = 10;
 printf(%S, "Hello, World!");
@@ -126,7 +126,7 @@ URL링크 : <http://www.google.com>
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | :------: | -------- | -------- |
-| No span  | Span across three columns    |
+| No span  | Span across three columns    |||
 
 
 ## 이미지
@@ -141,11 +141,12 @@ URL링크 : <http://www.google.com>
 | love    | &#128525;      |
 | ...    | ...      |
 
-<!-- 주석처리 
+<!-- 주석처리 -->
 ## 체크박스
-- ( ) 운동하기
-- (x) 강의듣기
--->
+- [x] 계란
+- [ ] 당근
+- [ ] 우유
+
 
 ***
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
