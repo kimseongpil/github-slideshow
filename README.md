@@ -126,7 +126,7 @@ URL링크 : <http://www.google.com>
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | -------- | :------: | -------- | -------- |
-| No span  | Span across three columns    |||
+| No span  | Span across three columns    |
 
 
 ## 이미지
