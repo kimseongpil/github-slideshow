@@ -147,15 +147,12 @@ URL링크 : <http://www.google.com>
 - [ ] 당근
 - [ ] 우유
 
-### Sequence Diagram
-```uml
-Alice -> Bob: Authentication Request
-Bob --> Alice: Authentication Response
 
-Alice -> Bob: Another authentication Request
-Alice <-- Bob: another authentication Response
+```math
+f(x) = \int_{-\infty}^\infty
+\hat f(\xi),e^{2 \pi i \xi x}
+,d\xi
 ```
-
 
 ***
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
