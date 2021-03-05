@@ -53,9 +53,11 @@ int val = 10;
 printf(%S, "Hello, World!");
 ```
 
-```HTML:TEST.HTML
-<h7>hi<h7>
-    <body> Hello Github!!! </body>
+```html:test.html
+
+<div>
+ <p>Hello, Git!</p>
+</div>
 ```
 
 ## 각주(footnote)
@@ -129,6 +131,9 @@ URL링크 : <http://www.google.com>
 
 <!-- 주석처리 -->
 
+## 체크박스
+- ( ) 운동하기
+- (x) 강의듣기
 
 
 ***
