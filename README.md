@@ -40,9 +40,9 @@ This course is using the :sparkles: open source project [reveal.js](https://gith
 
 ## 코드블럭
 `this is code block
-line1
-line2
-line3`
+    line1
+    line2
+    line3`
 
 ## 코드블럭 언어 스타일
 ```C#:FileName.CS
