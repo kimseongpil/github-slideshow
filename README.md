@@ -62,7 +62,7 @@ printf(%S, "Hello, World!");
 
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
-
+<sup>[1](#myfootnote1)</sup>
 
 ## TEXT 스타일
 *강조-Italic*
@@ -138,3 +138,5 @@ A statement.footnote:[Clarification about this statement.]
 A bold statement!footnote:disclaimer[Opinions are my own.]
 
 Another bold statement.footnote:disclaimer[]
+
+<a name="myfootnote1">1</a>: Footnote content goes here
