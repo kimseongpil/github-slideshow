@@ -62,7 +62,7 @@ printf(%S, "Hello, World!");
 
 [^footnote1]: MarkDown은 경량 마크업 언어입니다. 확장자는 md.
 
-<sup>[1](#myfootnote1)</sup>
+마크다운의 각주는 작동하지 않습니다.<sup>[1](#myfootnote1)</sup>
 
 ## TEXT 스타일
 *강조-Italic*
@@ -129,14 +129,7 @@ URL링크 : <http://www.google.com>
 
 <!-- 주석처리 -->
 
-최근 스칼라는 매우 인기가 높은 언어이다.[^scala]
 
-\[^scala]: 스칼라는 마틴 오더시크가 개발한 함수형 언어이다.
 
-A statement.footnote:[Clarification about this statement.]
-
-A bold statement!footnote:disclaimer[Opinions are my own.]
-
-Another bold statement.footnote:disclaimer[]
-
-<a name="myfootnote1">1</a>: Footnote content goes here
+***
+<a name="myfootnote1">1</a>: 왜일까요??
